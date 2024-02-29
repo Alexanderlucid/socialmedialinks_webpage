@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Alexanderlucid/socialmedialinks_webpage](https://github.com/Alexanderlucid/socialmedialinks_webpage)
-- Live Site URL: [https://mysocials.netlify.app/](https://mysocials.netlify.app/)
+- Live Site URL: [https://alexandersocials.netlify.app](https://mysocials.netlify.app/)
 
 ## My process
 - Desktop-first workflow
@@ -78,7 +78,7 @@ body{
 
 ## Author
 
-- Website - [Falere Alexander](https://mysocials.netlify.app/)
+- Website - [Falere Alexander](https://alexandersocials.netlify.app)
 - Frontend Mentor - [Alexanderlucid](https://www.frontendmentor.io/profile/Alexanderlucid)
 - Twitter - [@Lucidcode28](https://twitter.com/LucidCode28)
 
