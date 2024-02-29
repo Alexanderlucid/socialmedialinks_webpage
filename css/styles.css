@@ -77,9 +77,8 @@ img{
     color: black;
     caret-color: black;
 }
-.custom-cursor:hover{
-    cursor:url('../assets/images/pointer.png');
-    color:black;
+.navigation a:focus{
+    outline: none;
 }
 /* 500px abd below */
 @media(max-width:700px){
